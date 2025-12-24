@@ -84,7 +84,7 @@ background: #FEC6C7;
 border-left: 1px solid #000;
 border-right: 1px solid #000;
 } 
-navbar-header > a > img {
+.navbar-header > a > img {
   /* Hide the original image */
   width: 0;
   height: 0;
@@ -94,7 +94,7 @@ navbar-header > a > img {
   background-image: url('https://i.imgur.com/VIqaHm4.png');
   background-size: contain; /* Ensures the image fits within the bounds */
   background-repeat: no-repeat
-  
+} 
   
 /* Sidebar */
   
