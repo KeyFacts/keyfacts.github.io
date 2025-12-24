@@ -84,6 +84,7 @@ background: #FEC6C7;
 border-left: 1px solid #000;
 border-right: 1px solid #000;
 } 
+
 .navbar-header > a > img {
   /* Hide the original image */
   width: 0;
@@ -91,7 +92,7 @@ border-right: 1px solid #000;
   padding-left: 200px; /* Set width via padding */
   padding-top: 50px; /* Set height via padding, adjust as needed to maintain aspect ratio */
   /* Apply new image as a background */
-  background-image: url('https://i.imgur.com/VIqaHm4.png');
+  background-image: url('https://postimg.cc/4nBpqwVw');
   background-size: contain; /* Ensures the image fits within the bounds */
   background-repeat: no-repeat
 } 
